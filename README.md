@@ -12,4 +12,11 @@ También quiero comentar que, al estar yo solo haciendo push, lógicamente ya no
 ***
 Continuar con:
 
-- Planificacion.md
++  Planificacion.md
+
+
+##
+
+Archivo de inicio de Programa:
+
++ Software_FJ.py
