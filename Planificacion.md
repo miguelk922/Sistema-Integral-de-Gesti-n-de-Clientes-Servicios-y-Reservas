@@ -114,15 +114,16 @@ Voy a usar 2 agentes de IA para el presente proyecto entendiendo que el uso de l
 
 Sitema de notacion de quien trabajo:
 
-"
+```text
 AUTOR:  "Sea el Agente o yo"
 COMMIT: "Explicacion muy breve del cambio"
 FECHA: "Fecha y hora en la que se realizo el Cambio"
 VERSION: "si no hay versiones anteriores queda en blanco de lo contrario se veran las versiones previas"
-"
+```
 Si antes hubo un cambio que se va a alterar se dejara de esta manera:
 
-"AUTOR:  "Sea el Agente o yo"
+```text
+AUTOR:  "Sea el Agente o yo"
 COMMIT: "Explicacion muy breve del cambio"
 FECHA: "Fecha y hora en la que se realizo el Cambio"
 VERSION:  
@@ -133,7 +134,7 @@ VERSION:
         v2: AUTOR:  "Sea el Agente o yo"
             COMMIT: "Explicacion muy breve del cambio"
             FECHA: "Fecha y hora en la que se realizo el Cambio"
-"
+```
 
-de esta forma se vera si hubo cambios y quien los hizo. 
+de esta forma se vera si hubo cambios, las fechas y progreso del codigo en el tiempo mas alla de los propios commit de git.
 
