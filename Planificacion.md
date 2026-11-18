@@ -126,11 +126,11 @@ Si antes hubo un cambio que se va a alterar se dejara de esta manera:
 COMMIT: "Explicacion muy breve del cambio"
 FECHA: "Fecha y hora en la que se realizo el Cambio"
 VERSION:  
-        v1: "AUTOR:  "Sea el Agente o yo"
+        v1: AUTOR:  "Sea el Agente o yo"
             COMMIT: "Explicacion muy breve del cambio"
             FECHA: "Fecha y hora en la que se realizo el Cambio"
         
-        v2: "Sea el Agente o yo"
+        v2: AUTOR:  "Sea el Agente o yo"
             COMMIT: "Explicacion muy breve del cambio"
             FECHA: "Fecha y hora en la que se realizo el Cambio"
 "
