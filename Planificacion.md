@@ -101,3 +101,39 @@ flowchart TD
     class ElseBlock,SaveMem,PrintDesc okStyle
     class LogError,LogSuccess,FinallyBlock logStyle
 ```
+
+
+***
+
+## Otras Aclaraciones
+
+Voy a usar 2 agentes de IA para el presente proyecto entendiendo que el uso de los mismos me puede llegar a generar problemas o inconvenientes con mi tutor, pero con algunos detalles importantes, usare un sistema de "Docstrings" personalizado para que se vea lo que ha hecho los agentes, y que he hecho yo, ademas que si hay algo hecho por los agentes que me parece bien estructurado lo dejare con anotaciones pero si por el contrario me parece que se puede abstraer lo hare manualmente pero dejare comentado el propio codigo del agente, de esta manera a la hora de analizar el codigo los avances y el proyecto se notara que hizo cada uno, mis dos agentes escogidos son "Pi Agent" y "Antigravity de Google", y a falta de compañeros los usare a ellos.
+
+"Nota: !! Esto no me exime del problema primero de la falta de comunicacion oportuna pero como bien dije si posiblemente me bajen nota y pierda la actividad lo hare a mi manera."
+
+
+Sitema de notacion de quien trabajo:
+
+"
+AUTOR:  "Sea el Agente o yo"
+COMMIT: "Explicacion muy breve del cambio"
+FECHA: "Fecha y hora en la que se realizo el Cambio"
+VERSION: "si no hay versiones anteriores queda en blanco de lo contrario se veran las versiones previas"
+"
+Si antes hubo un cambio que se va a alterar se dejara de esta manera:
+
+"AUTOR:  "Sea el Agente o yo"
+COMMIT: "Explicacion muy breve del cambio"
+FECHA: "Fecha y hora en la que se realizo el Cambio"
+VERSION:  
+        v1: "AUTOR:  "Sea el Agente o yo"
+            COMMIT: "Explicacion muy breve del cambio"
+            FECHA: "Fecha y hora en la que se realizo el Cambio"
+        
+        v2: "Sea el Agente o yo"
+            COMMIT: "Explicacion muy breve del cambio"
+            FECHA: "Fecha y hora en la que se realizo el Cambio"
+"
+
+de esta forma se vera si hubo cambios y quien los hizo. 
+
