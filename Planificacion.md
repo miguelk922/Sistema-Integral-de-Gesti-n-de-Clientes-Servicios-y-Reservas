@@ -29,7 +29,7 @@ Se requiere desarrollar un Módulo Central de Gestión en Memoria (basado en una
 
 #### Notas adicionales de implementación:
 * **Control de errores operativos (RNF-02):** El sistema debe interceptar datos inválidos, parámetros faltantes, operaciones no permitidas, servicios no disponibles y cálculos inconsistentes sin detener la ejecución general.
-* **Entregable documental (RNF-05):** Presentar informe en PDF con portada, introducción, enlace al repositorio en GitHub, conclusiones y bibliografía en normas APA.
+
 
 
 ***
